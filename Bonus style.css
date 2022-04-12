@@ -1,0 +1,51 @@
+@font-face{
+    font-family: 'fila';
+    src: url(/Assets/Far-From\ Homecoming\ Updated.otf);
+}
+/* Bonus*/
+*{
+    margin: 0;
+    padding: 0;
+}
+.t-w{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 24px ;
+}
+a:hover{
+    color: #F1C530;
+}
+header a{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+}
+.com{
+    background-image: url(/Assets/Illustration/img35.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1050px;
+    top: 20px; 
+}
+.input p input::placeholder{
+    color: #FFFFFF;
+}
+.part-5{
+    background-color: #000000;
+}
+.part-5a{
+    background-color: #B11313;
+}
+.part-5-1{
+    padding: 80px;
+    padding-top: 80px;
+}
+.icones{
+    margin-left: -150px;
+}
+.say{
+    margin-left: -140px;
+}
+
+
+
+

@@ -1,0 +1,101 @@
+@font-face{
+    font-family: 'fila';
+    src: url(/Assets/Far-From\ Homecoming\ Updated.otf);
+}
+/* Hero*/
+*{
+    margin: 0;
+    padding: 0;
+}
+header nav a {
+    justify-content: space-between;
+    text-align: right;
+}
+.t-w{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 24px ;
+}
+a:hover{
+    color: #F1C530;
+}
+.part-1{
+    background-image: url(/Assets/Illustration/img19.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 850px;
+}
+.part-1-1{
+    padding-left: 130px;
+    padding-top: 350px;
+}
+.part-1 p{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF; 
+}
+.part-2{
+    background-color: #114C92;
+    padding: 120px;
+}
+.part-2 p{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF; 
+}
+.part-3{
+    background-image: url(/Assets/Illustration/img20.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+}
+.part-3a{
+    padding: 130px;
+}
+.part-3 p{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF; 
+}
+.part-4{
+    background-color: #114C92;
+}
+
+.part-4 .photo{
+    position: relative;
+    z-index: 2;
+    top: 120px;
+    left: -200px;
+}
+.part-4 p{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF; 
+}
+.part-5 p{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF; 
+}
+header a{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+}
+
+.part-5 .iron{
+    flex-direction: column;
+}
+.part-5 .hulk{
+    size: cover;
+}
+.part-6{
+    background-image: url(/Assets/Illustration/img33.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.part-5a{
+    background-color: #B11313;
+}
+.icones{
+    margin-left: -150px;
+}
+.love{
+    margin-left: -140px;
+}
